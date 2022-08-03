@@ -1,0 +1,23 @@
+{
+  "name": "_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakenek/SASS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakenek/SASS/issues"
+  },
+  "homepage": "https://github.com/Rakenek/SASS#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
